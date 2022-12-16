@@ -99,7 +99,6 @@ persist.vendor.data.mode=concurrent
 persist.vendor.data.iwlan.enable=true
 
 # Radio
-DEVICE_PROVISIONED=1
 persist.dbg.volte_avail_ovr=1
 persist.dbg.vt_avail_ovr=1
 persist.dbg.wfc_avail_ovr=1
