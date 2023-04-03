@@ -31,6 +31,9 @@ vendor.voice.playback.conc.disabled=true
 vendor.voice.record.conc.disabled=false
 vendor.voice.voip.conc.disabled=true
 
+# APCF extended
+bluetooth.le.disable_apcf_extended_features=1
+
 # CNE
 persist.vendor.cne.feature=1
 
